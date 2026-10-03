@@ -1,0 +1,11 @@
+{
+  "name": "gg.deals",
+  "author": "Marshy-Madness",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["store", "prices", "deals"],
+    "description": "Shows the lowest current price from gg.deals on Steam store pages.",
+    "image": ""
+  }
+}

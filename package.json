@@ -1,6 +1,6 @@
 {
   "name": "gg-deals",
-  "version": "0.1.0",
+  "version": "0.1.0-beta.1",
   "description": "Shows the lowest current gg.deals price on Steam store pages",
   "type": "module",
   "scripts": {
